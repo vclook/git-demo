@@ -6,3 +6,4 @@ hello git!
 hello git! mater test
 hello git! kkkk bran  test
 hello git! computer modify
+hello git! gogogo pc -> server
